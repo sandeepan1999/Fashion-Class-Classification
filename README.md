@@ -37,6 +37,5 @@ The 10 classes are as follows:
      Class 9       0.97      0.96      0.96      1000
 
     accuracy                           0.92     10000
-   macro avg       0.92      0.92      0.92     10000
-weighted avg       0.92      0.92      0.92     10000
+ 
 
