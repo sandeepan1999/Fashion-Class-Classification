@@ -17,7 +17,26 @@ The 10 classes are as follows:
 8 => Bag 
 9 => Ankle boot
 
-## INSIGHTS
-![alt text](https://github.com/sandeepan1999/Fashion-Class-Classification/blob/master/Test.png)
+## Analysis
 
+### Confusion Matrix
 ![alt text](https://github.com/sandeepan1999/Fashion-Class-Classification/blob/master/Confusion_matrix.png)
+
+### Report
+              precision    recall  f1-score   support
+
+     Class 0       0.82      0.92      0.87      1000
+     Class 1       0.98      0.99      0.99      1000
+     Class 2       0.88      0.86      0.87      1000
+     Class 3       0.91      0.93      0.92      1000
+     Class 4       0.88      0.89      0.88      1000
+     Class 5       0.98      0.97      0.98      1000
+     Class 6       0.82      0.71      0.76      1000
+     Class 7       0.95      0.97      0.96      1000
+     Class 8       0.99      0.98      0.98      1000
+     Class 9       0.97      0.96      0.96      1000
+
+    accuracy                           0.92     10000
+   macro avg       0.92      0.92      0.92     10000
+weighted avg       0.92      0.92      0.92     10000
+
